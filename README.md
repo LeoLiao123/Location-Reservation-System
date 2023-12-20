@@ -28,5 +28,5 @@ The system is composed of seven classes:
 3. Follow the on-screen prompts to book or manage reservations.
 
 ## Screenshots
-[Include a few screenshots of the application in use]
+Still Preparing...
 
